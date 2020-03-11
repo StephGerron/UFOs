@@ -1,9 +1,11 @@
-# UFOs
+# UFO Sightings with Javascript
 
-###Objectives
+### Objectives
 
 The goals:
-
-    Create, update, and deploy JavaScript functions to provide additional table filters.
-    Update and deploy forEach (for loop) to loop through the filters and update them with user input.
-    Update and populate the dynamic filters and table using JavaScript and HTML.
+    Explain the strengths and weaknesses of JavaScript “standard” and JavaScript version ES6+. 
+    Describe JavaScript syntax and ideal use cases. 
+    Build and deploy JavaScript functions, including built-in functions. 
+    Convert JavaScript functions to arrow functions. 
+    Build and deploy forEach (JavaScript for loop). 
+    Create, populate, and dynamically filter a table using JavaScript and HTML.
